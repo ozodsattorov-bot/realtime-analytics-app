@@ -1,20 +1,22 @@
 # Betting Analysis Tool
 
-This is a simple **Betting Data Analysis Tool** created by **Ozod Sattorov**.  
-The project is designed to collect, analyze, and visualize betting-related data for research purposes.  
-It is **not** intended for gambling, but for educational and statistical analysis only.
+This is a simple **Betting Data Analysis Tool** created for **research and educational purposes only**.  
+It allows you to visualize sample betting-related data.
+
+⚠️ **Disclaimer:** This project is **NOT intended for gambling**, only for statistics and research.
 
 ---
 
 ## Features
-- Collects sample betting data.
-- Performs statistical analysis.
-- Generates visualizations (graphs, charts).
-- Helps track patterns and outcomes.
+- Collects and displays sample betting data.
+- Performs simple win-rate analysis.
+- Generates interactive visualizations.
+- Allows user input to simulate outcomes.
 
 ---
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+## Installation & Usage
+Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/betting-analysis-tool.git
+cd betting-analysis-tool
